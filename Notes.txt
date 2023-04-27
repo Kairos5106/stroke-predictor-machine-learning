@@ -1,0 +1,65 @@
+Theme: Healthcare Hacks
+Assignment mission:
+
+To explore and analyze a specific domain in healthcare using machine learning techniques.
+Your goal is to develop a machine learning model that can help to ((solve a real-world problem)) in healthcare.
+___________________________________
+
+Things needed:
+1. Recorded presentation
+ 	- project demo
+ 	- coding
+ 	- powerpoint slides
+	- project report
+  - duration: 10 mins max
+	- all members present
+___________________________________
+
+- What is a problem that we might need to solve?
+Possible topics:
+
+1. Skin cancer
+2. Lung cancer
+3. TB detection
+4. Heart disease
+5. Anxiety
+
+Types of machine learning:
+1. Unsupervised learning
+2. Supervised learning (most desirable, easy)
+3. Reinforcement learning
+___________________________________
+
+Steps in doing a machine learning project:
+1. Import required libraries
+2. Data processing
+	i. Process different valued-variables
+	ii. Do exploratory data analysis (EDA)
+3. Data visualization
+4. Training models
+	- can have many different models
+5. Evaluating models
+6. Choosing the most accurate model
+
+___________________________________
+
+- Stroke
+	- Definition: A loss of blood flow to part of the brain, which damages brain tissue
+	- Types of stroke
+		- Ischemic stroke		: Blood clot blocks an artery in the brain (causes death of brain tissues)
+		- Hermorrhagic stroke 	: Blood vessel in the brain ruptures cause hemorrhage (blood flows into skull)
+	- Effects of stroke
+		- Loss of brain function within minutes
+			- Movement, thought, emotion processing
+	- Statistics and facts of stroke
+		- 2020: 1 in 6 deaths from cardiovascular disease was from stroke
+		- Stroke reduces mobility in more than half of stroke survivors
+	- Factors inducing risk of getting a stroke
+		- High blood pressure
+		- High cholesterol
+		- Smoking
+		- Obesity
+		- Diabetes
+
+- Links
+	- https://www.cdc.gov/stroke/facts.htm#:~:text=High%20blood%20pressure%2C%20high%20cholesterol,are%20leading%20causes%20of%20stroke.
